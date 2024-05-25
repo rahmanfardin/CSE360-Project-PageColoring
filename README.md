@@ -44,9 +44,9 @@ Date of Submission: 26/05/2024  
 
 # Screenshot
 ## Debugger
-![alt text](https://i.ibb.co/z60Yxyk/Screenshot-2024-05-24-183353.png?raw=true)
+![alt text](https://i.ibb.co/FXcLnbC/Screenshot-2024-05-25-143114.png)
 ## Test Run
-![alt text](https://i.ibb.co/Qfc2p75/Screenshot-2024-05-24-184119.png)
+![alt text](https://i.ibb.co/LdtcmXp/Screenshot-2024-05-25-143339.png)
 
 
 # RUN
